@@ -91,7 +91,7 @@
 class About extends Me {
   const nathanael = {
     role        : "Full-Stack Developer",
-    location    : "Lapu-Lapu City, Cebu 🇵🇭",
+    location    : "Cebu, Philippines",
     education   : "BS Computer Science",
     languages   : ["C#", "TypeScript", "JavaScript", "Python", "Java", "C"],
     frameworks  : [".NET", "ASP.NET MVC", "React", "React Native", "Next.js"],
