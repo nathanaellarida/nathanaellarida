@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nathanael Larida</h1>
-<h3 align="center">Full-Stack Developer · Software Engineer</h3>
+<h3 align="center">Full-Stack Developer · Project Lead</h3>
 
 <!-- ─────────────────────────────  SOCIALS  ─────────────────────────────
      Theme-aware badges: gold on dark mode, dark slate on light mode,
