@@ -110,5 +110,5 @@ class About extends Me {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanaellarida&hide_border=true&background=0D1117&stroke=FFD32A&ring=FFD32A&fire=FFD32A&currStreakLabel=FFD32A&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Total contributions and streak" />
+  <img src="https://streak-stats.demolab.com/?user=nathanaellarida&hide_border=true&background=0D1117&stroke=FFD32A&ring=FFD32A&fire=FFD32A&currStreakLabel=FFD32A&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Total contributions and streak" />
 </p>
