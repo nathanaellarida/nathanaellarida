@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nathanael Larida</h1>
-<h3 align="center">Full-Stack Developer · Project Lead</h3>
+<h3 align="center">Software Engineer · Project Lead</h3>
 
 <!-- ─────────────────────────────  SOCIALS  ─────────────────────────────
      Theme-aware badges: gold on dark mode, dark slate on light mode,
@@ -90,7 +90,7 @@
 ```typescript
 class About extends Me {
   const nathanael = {
-    role        : "Full-Stack Developer",
+    role        : "Software Engineer",
     location    : "Cebu, Philippines",
     education   : "BS Computer Science",
     languages   : ["C#", "TypeScript", "JavaScript", "Python", "Java", "C"],
