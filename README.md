@@ -5,8 +5,8 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Nathanael Larida</h1>
-<h3 align="center">Software Engineer · Project Lead</h3>
+<h1 align="center">Hi 👋, I'm Nat</h1>
+<h3 align="center">Software Engineer * Japan ITPEC FE Certified</h3>
 
 <!-- ─────────────────────────────  SOCIALS  ─────────────────────────────
      Theme-aware badges: gold on dark mode, dark slate on light mode,
