@@ -2,15 +2,20 @@ name: Update streak stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Daily at 08:00 Asia/Manila
+    - cron: "17 * * * *" # Hourly at :17, away from the busy start of the hour.
   push:
     paths:
       - ".github/workflows/streak-stats.yml"
   workflow_dispatch:
 
+concurrency:
+  group: streak-stats-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
 
